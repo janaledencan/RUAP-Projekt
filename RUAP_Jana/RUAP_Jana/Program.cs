@@ -6,7 +6,7 @@ namespace RUAP_Jana
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Jane Ledencan, evo i mog indeksa 12345");
+            Console.WriteLine("Pozdrav iz aplikacije od Jane Ledencan");
         }
     }
 }
